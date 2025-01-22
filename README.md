@@ -7,7 +7,7 @@ This project implements a RESTful API to predict machine downtime using manufact
 ->Make Predictions: Predicts downtime based on input features.
 
 #Installation
-git clone 
+git clone https://github.com/Benarjeechowdary/predictive-analysis.git
 
 #Install dependencies
 pip install -r requirements.txt
